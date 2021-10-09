@@ -1,5 +1,5 @@
-from Law import Law
+from Accounting import Accounting
 
-Law = Law('A')
+Accounting = Accounting('A')
 print('hello')
-print(Law.value)
+print(Accounting.value)
