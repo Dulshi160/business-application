@@ -1,3 +1,5 @@
-value = 10
+from Law import Law
+
+Law = Law('A')
 print('hello')
-print(value)
+print(Law.value)
